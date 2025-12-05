@@ -1,89 +1,121 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Sakshi Sharma's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Saki S
+Data Science & Business Analytics Student | Data Analyst | Program Manager 
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="sha4015@byui.edu">sha4015@byui.edu</a>
+| <a href="https://www.linkedin.com/in/-sakshi-sharma/">Linkedin </a>
 </div>
 
 
 ## Currently
 
-Standing on the shoulders of giants
+Building strong skills in data analysis, dashboard design, SQL, and end-to-end project management while studying Data Science & Business Analytics at BYU–Idaho.
+
 
 ### Specialized in
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+Excel and Power BI dashboards, Tableau storytelling, SQL database design, Python data analysis, customer experience, project coordination, and detailed technical documentation (such as Nursing Faculty Council Minutes).
 
 
 ### Research interests
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+Data visualization, machine learning basics, process improvement, yoga, creativity, hiking, and textile/fashion design inspired by my family’s printing business.
+
 
 
 ## Education
+## Education
 
-`1654-1660`
-__The King's School, Grantham.__
-
-`June 1661 - now`
-__Trinity College, Cambridge__
-
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
+`2024 – Present`  
+__Brigham Young University–Idaho__  
+- Major: Data Science & Business Analytics  
+- Coursework includes: SQL & Databases, Excel Automation, Tableau, Power BI, Programming with Python, Project Management
 
 
-
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
+`2010 – 2014`  
+__Undergraduate Degree (India)__  
+- Travel & Tourism: Emphasis in customer relations, communication, and operations
 
 
+## Experience
 
-## Publications
+Oct 2025 – Present`  
+__Student Data Analyst, Institutional Data and Analysis Services — Brigham Young University–Idaho__
 
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
+- Clean, analyze, and visualize institutional datasets to support university reporting and decision-making  
+- Build dashboards and automated Excel/Tableau tools used by academic and administrative units  
+- Write SQL queries, perform quality checks, and help prepare data for accreditation and assessment reporting  
+- Collaborate with analysts, faculty, and departments to deliver accurate data insights
 
-### Journals
+`2024 – Oct 2025`  
+__Faculty Council Secretary, Nursing Department — Brigham Young University–Idaho__
 
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
+- Prepared highly detailed Minutes of Meetings (MOM) covering curriculum updates, student performance, testing alignment (HESI), and budget considerations  
+- Supported faculty with MyClinicalExchange onboarding, documentation, and sensitive departmental communications  
+- Ensured accuracy, confidentiality, and organization of all academic records  
+- Coordinated with faculty, students, and administrators to maintain smooth department operations
 
-`1669`
-Lectiones opticæ.
 
-etc. etc. etc.
+`2018 – 2024`  
+__Program Manger: Great Learning__
 
-### Patents
+- Managed client concerns, retention strategies, and problem resolution  
+- Improved customer satisfaction through empathy, active listening, and solution-oriented communication  
+- Handled documentation, scheduling, and service follow-ups
 
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
+
+## Technical Projects
+
+### Dashboards & Analytics
+`2024 – Present`
+- Built Excel dashboards using pivot tables, macros, and dynamic charts (Sales Dashboard, Banking Dashboard, Marketing Research Survey Dashboard)
+- Designed Tableau stories covering marathon data, global TB trends, and decision-focused insights
+- Created interactive Excel tools using dropdown logic, conditional formatting, and formula-based automation
+
+### SQL & Databases
+`2024 – Present`
+- Designed a 13-table relational MySQL database with clean naming conventions and indexed foreign keys  
+- Wrote complex joins, subqueries, CTEs, CASE statements, and aggregation logic  
+- Created ERDs, schema documentation, and validated referential integrity
+
+
+
+## Certifications (in progress)
+
+- Data Analyst Professional Certificates (DataCamp)  
+- Yoga Teacher Training (YTT) —In progress
+- Introduction to Python & SQL (DataCamp)
+- Database Certificate - In progress
+
 
 
 ## Occupation
 
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+`2024 – Present`  
+__Student, Data Science & Business Analytics__, BYU–Idaho  
+- Focusing on analytics, project coordination, and building career-ready portfolio projects  
 
 
+`2018 – 2024`  
+__Customer Relations / Operations — India__  
+- Communication, retention, documentation, service quality  
+
+## Skills
+
+- **Data Tools:** Excel (advanced), Tableau, Power BI, SQL, MySQL Workbench, Python (Pandas)
+- **Analytics:** Data cleaning, reporting, dashboard design, statistical summaries, visualization
+- **Technical:** ERD design, database relationships, CTEs, joins, calculated fields, macros
+- **Professional:** Documentation, stakeholder communication, problem-solving, project coordination
+- **Creative:** Visual storytelling, design layout, branding, teaching and presentation skills
+
+## Professional Statement
+
+I am committed to developing strong analytical, technical, and communication skills while contributing meaningful, accurate work to support data-driven decision-making at BYU–Idaho. I value continuous learning, clear documentation, creative problem solving, and bringing sincerity and professionalism to every project I take on.
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: DEC 2025 -->
